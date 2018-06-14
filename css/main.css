@@ -1,3 +1,16 @@
 h1{
-	font-size: 20px;
+	font-size: 61px;
+	text-align: center;
+	color: red;
+	margin: 212px auto;
+
+
+}
+ul li{
+	list-style: none;
+	display: inline;
+	padding: 5px;
+}
+ul{
+	text-align: center;
 }
